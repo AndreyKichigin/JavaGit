@@ -1,0 +1,4 @@
+publuc class MainClass {
+
+System.Out.Print("Hello World");
+}
